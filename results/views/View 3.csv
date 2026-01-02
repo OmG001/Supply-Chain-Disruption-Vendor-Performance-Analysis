@@ -1,0 +1,5 @@
+"shipping_risk_flag","stock_risk_flag","total_orders","total_cost","total_revenue","avg_profit"
+"High Risk","Low Stock","16","8011.188","101006.539","5812.209"
+"Low Risk","Low Stock","9","5054.951","56407.941","5705.888"
+"High Risk","Normal","31","16877.932","157403.707","4533.090"
+"Low Risk","Normal","44","22980.507","262786.632","5450.139"
