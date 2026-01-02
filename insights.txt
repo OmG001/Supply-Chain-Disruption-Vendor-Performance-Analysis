@@ -1,0 +1,19 @@
+1️⃣ Supplier delays are unevenly distributed, with a small set of suppliers driving most lead-time risk.
+
+2️⃣ Higher defect rates correlate with lower profitability, increasing long-term supplier risk.
+
+3️⃣ Lowest-cost suppliers are not always the most reliable, indicating a trade-off between cost and performance.
+
+4️⃣ A few products account for most sales volume, while many products remain slow-moving.
+
+5️⃣ Overstocked, low-demand products create inventory holding risk and reduce operational efficiency.
+
+6️⃣ High shipping risk orders consistently show lower profit margins compared to low-risk orders.
+
+7️⃣ Customer value is highly concentrated, with a small customer segment generating the majority of revenue.
+
+8️⃣ High-volume customers provide more stable profitability than sporadic, low-order customers.
+
+9️⃣ Long lead times combined with low stock levels significantly increase supply chain risk exposure.
+
+1️⃣0️⃣ Risk-based analytics (shipping risk, stock risk) provide more actionable insights than volume-based metrics alone.
