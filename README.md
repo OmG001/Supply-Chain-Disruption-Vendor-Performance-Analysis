@@ -87,7 +87,7 @@ The main objectives of this project are to:
 ## 🧱 Project Structure
 
 ```bash
-PROJECT 1 - SUPPLY CHAIN DISRUPTION ANALYSIS
+.
 │
 ├── data/
 │   ├── supply_chain_data.csv
@@ -96,37 +96,10 @@ PROJECT 1 - SUPPLY CHAIN DISRUPTION ANALYSIS
 │
 ├── results/
 │   ├── easy/
-│   │   ├── Query 1.csv
-│   │   ├── Query 2.csv
-│   │   ├── Query 3.csv
-│   │   ├── Query 4.csv
-│   │   └── Query 5.csv
-│   │
 │   ├── medium/
-│   │   ├── Query 1.csv
-│   │   ├── Query 2.csv
-│   │   ├── Query 3.csv
-│   │   ├── Query 5.csv
-│   │   └── Query 6.csv
-│   │
 │   ├── hard/
-│   │   ├── Query 1.1.csv
-│   │   ├── Query 1.2.csv
-│   │   ├── Query 2.csv
-│   │   └── Query 3.csv
-│   │
 │   ├── advance/
-│   │   ├── Query 1.csv
-│   │   ├── Query 2.csv
-│   │   ├── Query 3.csv
-│   │   └── Query 4.csv
-│   │
 │   ├── views/
-│   │   ├── View 1.csv
-│   │   ├── View 2.csv
-│   │   ├── View 3.csv
-│   │   ├── View 4.csv
-│   │   └── Optimized Query.csv
 │
 ├── sql/
 │   ├── schema.sql
