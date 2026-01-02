@@ -281,5 +281,3 @@ The database design follows a **relational model** representing real-world suppl
 This project demonstrates how **SQL and Python** can be combined to analyze real-world supply chain data and extract **business-ready insights**. It reflects **practical analytical thinking**, not just query writing.
 
 ---
-
-Upload the next file whenever you’re ready 🚀
